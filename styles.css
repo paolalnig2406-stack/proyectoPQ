@@ -9,6 +9,16 @@
 			background: #fce4ec;
 		}
 
+		.nosotros-page {
+			min-height: 100vh;
+			color: #fff;
+			background: #000;
+		}
+
+		.nosotros-page .navbar {
+			background: #000;
+		}
+
 		.navbar {
 			display: flex;
 			align-items: center;

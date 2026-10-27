@@ -6,7 +6,7 @@
 	<title>Inicio</title>
 <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body class="nosotros-page">
 	<nav class="navbar" aria-label="Navegación principal">
 		<a class="brand" href="index.php">Proyecto PQ</a>
 		<div class="navbar-links">
@@ -70,7 +70,5 @@
 
     </main>
 
-	</main>
 </body>
-blackground-color: #FFCOCB
 </html>
