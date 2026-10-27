@@ -62,20 +62,21 @@
                 <p>
                     Responsabilidad, respeto, creatividad,
                     compromiso y trabajo en equipo.
-					     
-					NUESTRA HISTORIA 
-			         
-					Nacimos con la ilucion de crear algo unico, 
-					 conbinando creatividad, pasion y compromiso. 
-					
                 </p>
             </article>
+			    <h3>❤️ Nuestra historia</h3>
+                <p>
+                   Nacimos con ilusión, pasión y el deseo de crecer.
+                   Nuestra historia se construye con esfuerzo, creatividad
+                   y amor por cada detalle, compartiendo sueños y creando
+                   momentos especiales.
+                </p>
 
-        </section>
+                </section>
 
-    </main>
+                </main>
 
-	</main>
+	            </main>
 </body>
 blackground-color: #FFCOCB
 </html>
