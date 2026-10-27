@@ -9,6 +9,11 @@
 			background: #fce4ec;
 		}
 
+		.perfil-body {
+			min-height: 100vh;
+			background: #fce4ec;
+		}
+
 		.nosotros-page {
 			min-height: 100vh;
 			color: #fff;

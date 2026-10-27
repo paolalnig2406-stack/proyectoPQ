@@ -6,7 +6,7 @@
 	<title>Perfil</title>
 <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body class="perfil-body">
 	<nav class="navbar" aria-label="Navegación principal">
 		<a class="brand" href="index.php">Proyecto PQ</a>
 		<div class="navbar-links">
@@ -38,7 +38,7 @@
                 <dl class="profile-details">
                     <div>
                         <dt>Nombre</dt>
-                        <dd>Paola García Amaro</dd>
+                        <dd>Paola García nn Amaro</dd>
                     </div>
                     <div>
                         <dt>Rol</dt>
