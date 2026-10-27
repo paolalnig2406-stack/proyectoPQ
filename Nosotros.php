@@ -60,8 +60,9 @@
             <article class="tarjeta">
                 <h3>💡 Nuestros valores</h3>
                 <p>
-                    Responsabilidad, respeto, creatividad,
-                    compromiso y trabajo en equipo.
+                    NUESTRA HISTORIA 
+					HOLA SOY KIMBERLY 
+        
                 </p>
             </article>
 
@@ -71,4 +72,5 @@
 
 	</main>
 </body>
+blackground-color: #FFCOCB
 </html>
