@@ -22,7 +22,7 @@
             <img class="profile-avatar" src="imagenes/paola.jpeg" alt="Foto de perfil de Paola García">
             <div class="profile-heading">
                 <p class="profile-eyebrow">Perfil de usuario</p>
-                <h1 class="profile-name">Paola García</h1>
+                <h1 class="profile-name">Paola García Amaro</h1>
                 <p class="profile-tagline">Miembro de Proyecto PQ</p>
             </div>
         </header>
@@ -38,7 +38,7 @@
                 <dl class="profile-details">
                     <div>
                         <dt>Nombre</dt>
-                        <dd>Paola García</dd>
+                        <dd>Paola García Amaro</dd>
                     </div>
                     <div>
                         <dt>Rol</dt>
