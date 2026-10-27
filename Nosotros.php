@@ -60,9 +60,10 @@
             <article class="tarjeta">
                 <h3>💡 Nuestros valores</h3>
                 <p>
-                    NUESTRA HISTORIA 
-					HOLA SOY KIMBERLY 
-        
+                    Responsabilidad, respeto, creatividad,
+                    compromiso y trabajo en equipo.
+					     NUESTRA HISTORIA 
+						 HOLA SOY QUIMBERLY 
                 </p>
             </article>
 
