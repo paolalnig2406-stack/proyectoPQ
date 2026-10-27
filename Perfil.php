@@ -4,7 +4,13 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Perfil</title>
-<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="styles.css">
+	<style>
+		/* Fuerza el fondo rosa claro directamente en el HTML */
+		body.perfil-body {
+			background-color: #fce4ec !important;
+		}
+	</style>
 </head>
 <body class="perfil-body">
 	<nav class="navbar" aria-label="Navegación principal">
