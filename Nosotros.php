@@ -62,8 +62,12 @@
                 <p>
                     Responsabilidad, respeto, creatividad,
                     compromiso y trabajo en equipo.
-					     NUESTRA HISTORIA 
-						 HOLA SOY QUIMBERLY 
+					     
+					NUESTRA HISTORIA 
+			         
+					Nacimos con la ilucion de crear algo unico, 
+					 conbinando creatividad, pasion y compromiso. 
+					
                 </p>
             </article>
 
